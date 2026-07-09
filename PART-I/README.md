@@ -1,7 +1,7 @@
 # gen-ai
 
 install uv
-
+x
 """
 curl -LsSf https://astral.sh/uv/install.sh | sh
 """
